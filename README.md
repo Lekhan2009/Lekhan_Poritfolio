@@ -66,7 +66,7 @@ Here is the folder structure of 3D Portfolio.
     |-- index.css
     |-- main.jsx
   |- .env.local
-  |- .env.example
+  |- .env
   |- vite.config.js
   |- package-lock.json
   |- package.json
