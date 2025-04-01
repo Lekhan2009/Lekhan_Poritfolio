@@ -223,7 +223,7 @@ export const PROJECTS = [
     name: "Online Chat Application",
     description:
       "Experience my chat app, built on React.js, Socket.io, and MongoDB. Enjoy seamless communication with a sleek design for an intuitive and engaging messaging experience.",
-    link: "#",
+    link: "https://fullstack-chat-app-g4b1.onrender.com",
   },
   {
     iconUrl: estate,
